@@ -79,7 +79,7 @@
     "@types/node": "^8.9.5",
     "angular2-notifications": "^2.0.0",
     "codelyzer": "^5.0.0",
-    "electron": "^7.1.10",
+    "electron": "^9.4.0",
     "electron-builder": "^22.2.0",
     "electron-debug": "^3.0.1",
     "jasmine-core": "~3.4.0",
